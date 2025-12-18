@@ -18,76 +18,76 @@
 Explore the UI and functionalities through the screenshots below:  
 
 - **Screen 0**  
-![Screen 0](screenshots/screen0.png)  
+![Screen 0](screens/news/screen0.png)  
 
 - **Screen 1**  
-![Screen 1](screenshots/screen1.png)  
+![Screen 1](screens/news/screen1.png)  
 
 - **Screen 2**  
-![Screen 2](screenshots/screen2.png)  
+![Screen 2](screens/news/screen2.png)  
 
 - **Screen 3**  
-![Screen 3](screenshots/screen3.png)  
+![Screen 3](screens/news/screen3.png)  
 
 - **Screen 4**  
-![Screen 4](screenshots/screen4.png)  
+![Screen 4](screens/news/screen4.png)  
 
 - **Screen 5**  
-![Screen 5](screenshots/screen5.png)  
+![Screen 5](screens/news/screen5.png)  
 
 - **Screen 6**  
-![Screen 6](screenshots/screen6.png)  
+![Screen 6](screens/news/screen6.png)  
 
 - **Screen 7**  
-![Screen 7](screenshots/screen7.png)  
+![Screen 7](screens/news/screen7.png)  
 
 - **Screen 8**  
-![Screen 8](screenshots/screen8.png)  
+![Screen 8](screens/news/screen8.png)  
 
 - **Screen 9**  
-![Screen 9](screenshots/screen9.png)  
+![Screen 9](screens/news/screen9.png)  
 
 - **Screen 10**  
-![Screen 10](screenshots/screen10.png)  
+![Screen 10](screens/news/screen10.png)  
 
 - **Screen 11**  
-![Screen 11](screenshots/screen11.png)  
+![Screen 11](screens/news/screen11.png)  
 
 - **Screen 12**  
-![Screen 12](screenshots/screen12.png)  
+![Screen 12](screens/news/screen12.png)  
 
 - **Screen 13**  
-![Screen 13](screenshots/screen13.png)  
+![Screen 13](screens/news/screen13.png)  
 
 - **Screen 14**  
-![Screen 14](screenshots/screen14.png)  
+![Screen 14](screens/news/screen14.png)  
 
 - **Screen 15**  
-![Screen 15](screenshots/screen15.png)  
+![Screen 15](screens/news/screen15.png)  
 
 - **Screen 16**  
-![Screen 16](screenshots/screen16.png)  
+![Screen 16](screens/news/screen16.png)  
 
 - **Screen 17**  
-![Screen 17](screenshots/screen17.png)  
+![Screen 17](screens/news/screen17.png)  
 
 - **Screen 18**  
-![Screen 18](screenshots/screen18.png)  
+![Screen 18](screens/news/screen18.png)  
 
 - **Screen 19**  
-![Screen 19](screenshots/screen19.png)  
+![Screen 19](screens/news/screen19.png)  
 
 - **Screen 20**  
-![Screen 20](screenshots/screen20.png)  
+![Screen 20](screens/news/screen20.png)  
 
 - **Screen 21**  
-![Screen 21](screenshots/screen21.png)  
+![Screen 21](screens/news/screen21.png)  
 
 - **Screen 22**  
-![Screen 22](screenshots/screen22.png)  
+![Screen 22](screens/news/screen22.png)  
 
 - **Screen 23**  
-![Screen 23](screenshots/screen23.png)  
+![Screen 23](screens/news/screen23.png)  
 
 ---
 
